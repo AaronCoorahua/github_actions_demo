@@ -1,0 +1,12 @@
+# Evidencias del laboratorio (no se versionan)
+imagenes/
+
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+coverage.xml
+report.xml
+htmlcov/
+dist/
+public/
